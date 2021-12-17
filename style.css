@@ -1,0 +1,109 @@
+h1 {
+ color: rgb(255, 255, 255);
+}
+h2 {
+ color: rgb(254,0,0);
+}
+h3 {
+ color: red;
+}
+h4 {
+ color: red;
+}
+h5 {
+ color: red;
+}
+h6 {
+ color: red;
+}
+body {
+   background-color: lightgrey;
+}
+body {
+ background-color: rgb(69, 69, 69);
+
+}
+body {
+ font-family: times new;
+}
+p {
+ color: red;
+}
+
+footer p {
+ color: blue;
+}
+
+article {
+ width: 300px;
+ padding: 10px;
+ margin: 10px;
+ border: 5px solid black;
+}
+
+* {
+ margin: 0;
+}
+#wrapper {
+ width: 900px;
+ margin: 10px;
+ float: auto;
+}
+article {
+ background-color: #cccccc;
+ width: 900px;
+}
+
+
+.article img {
+   width: 348px;
+   margin: 1px;
+   float: right;
+}
+.article p {
+  float: left;
+  margin: auto;
+  
+}
+
+#sidebar{
+  border: 5px solid black;
+  width: 100px;
+  height: 1080px;
+  margin: left
+}
+
+
+nav{
+display:flex;
+flex-wrap:wrap;
+}
+
+nav a {
+text-decoration: none;
+display:block;
+padding: 15px 25px;
+text-align: center;
+background-color: rgb(213, 216, 220);
+color:#566573;
+font-family:sans-serif;
+}
+nav a:hover {
+background-color: #566573;
+color:#ffffff;
+}
+header {
+  background-color: black;
+
+}
+a:hover {
+color: darkblue;
+text-decoration: none;
+  cursor: wait;
+}
+
+a:default {
+  color: darkblue;
+  text-decoration: none;
+    cursor: wait;
+}
